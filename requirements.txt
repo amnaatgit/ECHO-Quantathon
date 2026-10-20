@@ -1,0 +1,5 @@
+qiskit==2.6.0
+qiskit-aer==0.18.0
+pylatexenc
+matplotlib
+scipy
