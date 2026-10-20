@@ -106,20 +106,20 @@
 
 ## Appendix: supplementary figures *(not counted toward the page limit)*
 
-![M03 basis test](figures/m03_basis_test.png)
+![M03 basis test](m03_basis_test.png)
 *Figure A1 (M03 Gold): a second measurement basis separates real entanglement from a pre-agreed secret.*
 
-![M06 accuracy](figures/m06_accuracy.png)
+![M06 accuracy](m06_accuracy.png)
 *Figure A2 (M06 Gold): the message arrives only when the classical bits arrive. With 0 bits, every message is a coin toss.*
 
-![M02 seed](figures/m02_seed.png)
+![M02 seed](m02_seed.png)
 *Figure A3 (M02 Silver): the recovered seed Ry(1.159) is a 70/30 coin.*
 
-![M06 teleport](figures/m06_teleport.png)
+![M06 teleport](m06_teleport.png)
 *Figure A4 (M06 Bronze): the recovered teleportation circuit. The two `If` blocks are the classical channel.*
 
-![M05 quantum code](figures/m05_qcode.png)
+![M05 quantum code](m05_qcode.png)
 *Figure A5 (M05): the 3-qubit bit-flip code protects a superposition from a single error without copying it.*
 
-![M01 silver](figures/m01_silver.png)
+![M01 silver](m01_silver.png)
 *Figure A6 (M01 Silver): H·H, "looks uncertain but is secretly certain".*
